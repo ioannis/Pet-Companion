@@ -1,7 +1,6 @@
 # Pet Companion
-Photos from the building of the first prototype
+Photos from the consept vehicle
 ![pet_companion](https://raw.githubusercontent.com/ioannis/Pet-Companion/master/20200226_170211.jpg)
-
 
 Photos from the building of the first prototype
 ![1st protoype](https://raw.githubusercontent.com/ioannis/Pet-Companion/master/20200226_125642.jpg)
