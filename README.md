@@ -2,7 +2,7 @@
 
 Photos from the consept vehicle
 
-![pet_companion](https://raw.githubusercontent.com/ioannis/Pet-Companion/master/20200226_170211.jpg)
+![pet_companion](https://raw.githubusercontent.com/ioannis/Pet-Companion/master/20200226_170211.png)
 
 Photos from the building of the first prototype
 
