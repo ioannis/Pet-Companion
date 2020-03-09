@@ -12,6 +12,6 @@ NCS2 will be the tail
 
 ![with tail](https://raw.githubusercontent.com/ioannis/Pet-Companion/master/20200226_125648.jpg)
 
-and with a camera
+and with a camera.
 
 ![with camera](https://raw.githubusercontent.com/ioannis/Pet-Companion/master/20200226_133315.jpg)
